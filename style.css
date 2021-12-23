@@ -2,9 +2,9 @@
 body{
     width: 100vw;
     height: 100vh;
-    /*background-image:url(./exercise-framework.png);
+    background-image:url(./exercise-framework.png);
     background-repeat: no-repeat;
-    background-size: contain;*/
+    background-size: contain;
 }
 .boxx{
     width: 72%;
