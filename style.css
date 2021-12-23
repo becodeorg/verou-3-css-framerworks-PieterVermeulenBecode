@@ -5,6 +5,7 @@
 body{
     width: 100vw;
     height: 100vh;
-    background-image: url("exercise-frameworks.png");
+    background-image:url(./exercise-framework.png);
     background-repeat: no-repeat;
+    background-size: contain;
 }
