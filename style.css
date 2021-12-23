@@ -2,14 +2,13 @@
 body{
     width: 100vw;
     height: 100vh;
-    background-image:url(./exercise-framework.png);
+    /*background-image:url(./exercise-framework.png);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: contain;*/
 }
-box{
-    width: 100%;
+.boxx{
+    width: 72%;
     height: 100%;
-    margin:30px;
-    background-color: rgb(10, 163, 163);
+    background-color: rgba(3, 190, 223, 0.219);
 
 }
