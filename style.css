@@ -2,15 +2,22 @@
 body{
     width: 100vw;
     height: 100vh;
-  /*  background-image:url(./exercise-framework.png);
+    background-image:url(./exercise-framework.png);
     background-repeat: no-repeat;
-    background-size: contain;*/
+    background-size: contain;
 }
 .boxx{
     width: 72%;
     height: 100%;
     background-color: rgba(3, 190, 223, 0.219);
 
+}
+.card:hover{
+    box-shadow: 2px 2px 5px 12px grey;
+}
+.btn:hover{
+    background-color: #0d6efd;
+    color:white;
 }
 
 h5{
