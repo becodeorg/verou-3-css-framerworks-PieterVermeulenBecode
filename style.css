@@ -2,9 +2,9 @@
 body{
     width: 100vw;
     height: 100vh;
-    background-image:url(./exercise-framework.png);
+  /*  background-image:url(./exercise-framework.png);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: contain;*/
 }
 .boxx{
     width: 72%;
@@ -12,3 +12,11 @@ body{
     background-color: rgba(3, 190, 223, 0.219);
 
 }
+
+h5{
+font-size: 90%;
+}
+p{
+    font-size: 70%;
+}
+
