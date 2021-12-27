@@ -2,10 +2,11 @@
 body{
     width: 100vw;
     height: 100vh;
-    background-image:url(./exercise-wireframe.png);
-    background-repeat: no-repeat;
+  /*  background-image:url(./exercise-wireframe.png);
+    background-repeat: no-repeat;*/
     
 }
+
 .boxx{
     width: 72%;
     height: 100%;
